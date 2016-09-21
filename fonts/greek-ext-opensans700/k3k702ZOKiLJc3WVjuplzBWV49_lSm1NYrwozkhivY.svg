@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150824 at Fri Mar  4 03:03:07 2016
+ By Everything Fonts
+</metadata>
+<defs>
+<font id="k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwozkhivY" horiz-adv-x="0" >
+  <font-face 
+    font-family="k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwozkhivY"
+    font-weight="700"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 11 8 6 3 5 4 2 2 4"
+    ascent="1638"
+    descent="-410"
+    bbox="-398 -20 1593 1485"
+    underline-thickness="102"
+    underline-position="-307"
+    unicode-range="U+1F4D-1F4D"
+  />
+<missing-glyph horiz-adv-x="1229" 
+d="M193 1462h841v-1462h-841v1462zM297 104h633v1254h-633v-1254z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1229" 
+d="M193 1462h841v-1462h-841v1462zM297 104h633v1254h-633v-1254z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="1044" 
+ />
+    <glyph glyph-name="uni1F4D" unicode="&#x1f4d;" horiz-adv-x="1712" 
+d="M1593 733q0 -363 -180 -558t-516 -195t-516 195t-180 560t180.5 557.5t517.5 192.5t515.5 -194t178.5 -558zM526 733q0 -245 93 -369t278 -124q371 0 371 493q0 494 -369 494q-185 0 -279 -124.5t-94 -369.5zM-398 1266q0 82 76 138t217 75v-74q-73 -22 -107.5 -40.5
+t-34.5 -47.5q0 -18 18.5 -27t41 -17.5t41 -21.5t18.5 -41q0 -37 -31.5 -59.5t-97.5 -22.5q-67 0 -104 37t-37 101zM-52 1163l19 67q42 147 63 234h262v-20q-42 -94 -207 -307h-137v26z" />
+    <glyph glyph-name="null" 
+ />
+    <glyph glyph-name="space" horiz-adv-x="532" 
+ />
+    <glyph glyph-name="O" horiz-adv-x="1630" 
+d="M1511 733q0 -363 -180 -558t-516 -195t-516 195t-180 560t180.5 557.5t517.5 192.5t515.5 -194t178.5 -558zM444 733q0 -245 93 -369t278 -124q371 0 371 493q0 494 -369 494q-185 0 -279 -124.5t-94 -369.5z" />
+    <glyph glyph-name="dasiaoxia" horiz-adv-x="512" 
+d="M121 1266q0 82 76 138t217 75v-74q-73 -22 -107.5 -40.5t-34.5 -47.5q0 -18 18.5 -27t41 -17.5t41 -21.5t18.5 -41q0 -37 -31.5 -59.5t-97.5 -22.5q-67 0 -104 37t-37 101zM467 1163l19 67q42 147 63 234h262v-20q-42 -94 -207 -307h-137v26z" />
+  </font>
+</defs></svg>

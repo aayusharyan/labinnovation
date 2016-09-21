@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150824 at Fri Mar  4 02:16:15 2016
+ By Everything Fonts
+</metadata>
+<defs>
+<font id="MTP_ySUJH_bn48VBG8sNShWV49_lSm1NYrwozkhivY" horiz-adv-x="0" >
+  <font-face 
+    font-family="MTP_ySUJH_bn48VBG8sNShWV49_lSm1NYrwozkhivY"
+    font-weight="600"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 11 7 6 3 8 4 2 2 4"
+    ascent="1638"
+    descent="-410"
+    bbox="-345 -20 1542 1485"
+    underline-thickness="102"
+    underline-position="-307"
+    unicode-range="U+1F4D-1F4D"
+  />
+<missing-glyph horiz-adv-x="1229" 
+d="M193 1462h841v-1462h-841v1462zM297 104h633v1254h-633v-1254z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="1229" 
+d="M193 1462h841v-1462h-841v1462zM297 104h633v1254h-633v-1254z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="1044" 
+ />
+    <glyph glyph-name="uni1F4D" unicode="&#x1f4d;" horiz-adv-x="1665" 
+d="M1542 733q0 -357 -178.5 -555t-505.5 -198q-331 0 -508.5 196.5t-177.5 558.5t178.5 556t509.5 194q326 0 504 -197t178 -555zM426 733q0 -270 109 -409.5t323 -139.5q213 0 321.5 138t108.5 411q0 269 -107.5 408t-320.5 139q-215 0 -324.5 -139t-109.5 -408zM-31 1161
+q67 202 90 301h225v-20q-61 -126 -207 -307h-108v26zM-345 1260q0 81 70 137t196 80v-72q-66 -22 -98.5 -43t-32.5 -49q0 -19 17 -28t37.5 -17t37.5 -21t17 -41q0 -37 -28.5 -57.5t-82.5 -20.5q-60 0 -96.5 35t-36.5 97z" />
+    <glyph glyph-name="null" 
+ />
+    <glyph glyph-name="space" horiz-adv-x="532" 
+ />
+    <glyph glyph-name="O" horiz-adv-x="1612" 
+d="M1491 733q0 -357 -178.5 -555t-505.5 -198q-331 0 -508.5 196.5t-177.5 558.5t178.5 556t509.5 194q326 0 504 -197t178 -555zM375 733q0 -270 109 -409.5t323 -139.5q213 0 321.5 138t108.5 411q0 269 -107.5 408t-320.5 139q-215 0 -324.5 -139t-109.5 -408z" />
+    <glyph glyph-name="dasiaoxia" horiz-adv-x="666" 
+d="M449 1161q67 202 90 301h225v-20q-61 -126 -207 -307h-108v26zM135 1260q0 81 70 137t196 80v-72q-66 -22 -98.5 -43t-32.5 -49q0 -19 17 -28t37.5 -17t37.5 -21t17 -41q0 -37 -28.5 -57.5t-82.5 -20.5q-60 0 -96.5 35t-36.5 97z" />
+  </font>
+</defs></svg>
